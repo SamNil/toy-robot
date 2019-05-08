@@ -33,3 +33,8 @@ The `/path/to/file` is the input to the application and contains commands that t
 npm test
 ```
 This runs all tests and produces a coverage report.
+
+## Future work
+
+Command pattern is better to be implemented for all robot commands.
+Currently, commands are case sensitive, a transformation layer is better to be added to handle all possible input for commands
