@@ -53,6 +53,6 @@ export default class Robot {
             throw new Error('Invalid Position');
         }
         this.position = pos;
-        this.direction = Direction[dir];
+        this.direction = Direction[dir.trim()];
     }
 }

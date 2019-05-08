@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/models/position.js"],"names":["Position","x","y"],"mappings":"oOAAqBA,Q;AACjB,kBAAYC,CAAZ,EAAeC,CAAf,EAAkB;AACd,SAAKD,CAAL,GAASA,CAAT;AACA,SAAKC,CAAL,GAASA,CAAT;AACH,C,mBAJgBF,Q","file":"position.js","sourcesContent":["export default class Position {\r\n    constructor(x, y) {\r\n        this.x = x;\r\n        this.y = y;\r\n    }\r\n}"]}

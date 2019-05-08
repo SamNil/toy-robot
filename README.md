@@ -22,7 +22,7 @@ npm run build
 ----
 Once built, the application can be run using
 ```
-npm run /path/to/file
+npm run start /path/to/file
 ```
 The `/path/to/file` is the input to the application and contains commands that the robot need to execute,  separated by the newline character
 
